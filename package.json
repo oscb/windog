@@ -1,0 +1,22 @@
+{
+  "name": "windog",
+  "version": "1.0.0",
+  "description": "Watchdog that sends Pushover notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Bazaldua",
+  "license": "ISC",
+  "bin": {
+    "windog": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "conf": "^2.2.0",
+    "dotenv": "^6.2.0",
+    "progress": "^2.0.3",
+    "pushover-notifications": "^1.2.0"
+  }
+}
