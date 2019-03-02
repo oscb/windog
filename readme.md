@@ -1,4 +1,4 @@
-[[https://github.com/oscb/windog/blob/master/img/windog.png|alt=windog]]
+[[https://github.com/oscb/windog/blob/master/windog.png|alt=windog]]
 # Windog
 
 Windog is a simple node command line tool to send pushover notifications
