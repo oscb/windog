@@ -88,7 +88,7 @@ function send(user, token, msg, opts) {
 
 program
   .version('1.0.0')
-  .usage('windog [command] <args>')
+  .usage('[command] <args>')
 
 program
   .command('setup')
